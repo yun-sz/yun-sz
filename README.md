@@ -1,4 +1,4 @@
-# Hi, i'am [David "Yun 🌸"](https://github.com/davidszz)
+# Hi, i'am David "Yun"
 
 Enthusiast of the best web development technologies.
 

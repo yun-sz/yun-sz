@@ -1,14 +1,10 @@
-# Hi, i'am David "Yun"
+# Hi, i'am David
 
 Enthusiast of the best web development technologies.
 
 [![Instagram](/assets/instagram.png)](https://instagram.com/yunkkkkj) [![Discord](./assets/discord.png)](https://discord.com/users/1127320965555167362)
 
-Writing code daily in search of learning as much as possible. Always looking to learn new frameworks and tools that help to develop projects with the best quality and performance.
-
-*"Just try it..."*
-
-**Typescript**, **GO** and **CSharp** ❤
+I write code in **C#**, **GO** and **TS** 🤞
 <br/>
 
 > Put in dark theme to vizualize
@@ -21,4 +17,4 @@ Writing code daily in search of learning as much as possible. Always looking to 
 [Lone Design resources](https://lone.design/vendor/yunsz/)
 
 ## Contact me
-Discord: [yunkkkk](https://discord.com/users/1127320965555167362)
+Discord: [y17j8](https://discord.com/users/1127320965555167362)

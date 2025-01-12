@@ -7,8 +7,6 @@ Enthusiast of the best web development technologies.
 I write code in **C#**, **GO** and **TS** 🤞
 <br/>
 
-> Put in dark theme to vizualize
-
 ## Projects
 
 [My personal website](https://yundev.wtf) \

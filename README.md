@@ -8,7 +8,7 @@ Writing code daily in search of learning as much as possible. Always looking to 
 
 *"Just try it..."*
 
-I write code in **ts**, **go** and **csharp** ❤
+**Typescript**, **GO** and **CSharp** ❤
 <br/>
 
 > Put in dark theme to vizualize

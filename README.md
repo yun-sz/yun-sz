@@ -4,7 +4,7 @@ Enthusiast of the best web development technologies.
 
 [![Instagram](/assets/instagram.png)](https://instagram.com/yunkkkkj) [![Discord](./assets/discord.png)](https://discord.com/users/1127320965555167362)
 
-I write code in **C#**, **GO** and **TS** 🤞
+I write code in **TS**,**GO** and **C#** 🤞
 <br/>
 
 ## Projects

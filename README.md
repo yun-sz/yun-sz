@@ -15,4 +15,4 @@ I write code in **TS**,**GO** and **C#**
 [Lone Design resources](https://lone.design/vendor/yunsz/)
 
 ## Contact me
-Discord: [y17j8](https://discord.com/users/1127320965555167362)
+Discord: [http.yun](https://discord.com/users/1127320965555167362)
